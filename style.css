@@ -2,3 +2,10 @@
 body{
     font-family: 'Luxurious Roman', cursive;
 }
+a{
+    text-decoration: none;
+    color:rgba(245, 245, 245, 0.616);
+}
+.black{
+    background-color: #00091af1;
+}
