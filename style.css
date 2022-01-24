@@ -12,3 +12,6 @@ a{
 .package-col{
     color:#231D4F;
 }
+.radius{
+    border-radius:20px;
+}
